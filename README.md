@@ -1,4 +1,4 @@
-<img src="https://br.freepik.com/vetores-premium/tecnologia-de-cara-de-desenho-animado-e-globo_2252337.htm" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador VictorHugo">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador VictorHugo">
 
 <p align="left"> 
   Olá meu nome é Victor, sou desenvolvedor <strong>Front-End</strong>. Estou atuando como Front End Jr pela empresa NewPost, porém, aberto para receber propostas de freelas
