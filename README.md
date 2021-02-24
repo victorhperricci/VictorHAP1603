@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  💌 Se você deseja tirar dúvidas, fazer um projeto comigo e/ou conversar, só chamar pô!: ⤵️
 </p>
 
 <p align="left">
