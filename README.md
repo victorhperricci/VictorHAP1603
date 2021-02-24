@@ -5,6 +5,10 @@
 </p>
 
 <p align="left">
+  🔭 Estou graduando em <strong>Sistemas de Informação</strong> pela faculdade <strong>Fundação Santo André</strong>
+</p>
+
+<p align="left">
   🦄 Habilidades: <strong>HTML, CSS, JavaScript, React JS, Sass, Bootstrap.</strong>
 </p>
 
