@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🌱 Habilidades: <strong>HTML, CSS, JavaScript, React JS, Sass, Bootstrap.</strong>
+  🌱 Habilidades: <strong>HTML, CSS, JavaScript, React JS, Styled Components, Node Js, Laravel, Php, Sass.</strong>
 </p>
 
 <p align="left">
