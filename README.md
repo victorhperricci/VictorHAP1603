@@ -1,6 +1,6 @@
 
 <p align="left"> 
-  Olá meu nome é Victor, sou desenvolvedor <strong>Front-End</strong>. Estou atuando como Front End Jr pela empresa NewPost, porém, aberto para receber propostas de freelas
+  Olá meu nome é Victor, sou desenvolvedor <strong>Front-End</strong>. Atuo como desenvolvedor pela empresa NewPost, porém, aberto para receber propostas de freelas
 </p>
 
 <p align="left">
