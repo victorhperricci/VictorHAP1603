@@ -12,10 +12,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, Netlify, Git and GitHub.</strong>
-</p>
-
-<p align="left">
   💌 Se você deseja tirar dúvidas, fazer um projeto comigo e/ou conversar, só chamar pô!: ⤵️
 </p>
 
